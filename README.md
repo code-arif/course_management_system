@@ -22,19 +22,22 @@ This web application enables users to:
 
 ---
 
+## 📺 Project Demo Video
+
+[![Watch Project Demo](https://img.shields.io/badge/WATCH_FULL_DEMO-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/file/d/1ob56uRXdZGU7Iq_ajwR7VwWUeVfdE6x4/view?usp=sharing)
+
+Click the button above to watch the complete project walkthrough on Google Drive.
+
 ## 📷 Screenshots
 
 ### 🔹 Course List Page
+[![Course List](https://img.shields.io/badge/View_Course_List_Screenshot-Click_Here-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1XpiSzXlBU6yrMSedeOHJDsZLrlEMuijd/view)
 
-<img src="https://i.imgur.com/your-screenshot-1.jpg" width="600" alt="Course List Screenshot" />
-
-### 🔹 Create Course Form
-
-<img src="https://i.imgur.com/your-screenshot-2.jpg" width="600" alt="Create Course Screenshot" />
+### 🔹 Create Course Form  
+[![Create Course](https://img.shields.io/badge/View_Create_Form_Screenshot-Click_Here-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1Mhs7TKlH_Aj_84TP1L9OEHTWasB1lYZt/view)
 
 ### 🔹 Course Detail View
-
-<img src="https://i.imgur.com/your-screenshot-3.jpg" width="600" alt="Course Details Screenshot" />
+[![Course Details](https://img.shields.io/badge/View_Course_Details_Screenshot-Click_Here-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1qCpA994DdaMK8iwvApnPAKKIXl8vq0UO/view)
 
 ---
 
@@ -77,5 +80,16 @@ php artisan serve
 ├── composer.json
 ```
 
-## 📧 Contact
-For questions or feedback, reach out to: [arifulislam6460@gmail.com](arifulislam6460@gmail.com)
+## 🌟 More Projects
+
+Explore my other projects and portfolio:
+
+[![Portfolio](https://img.shields.io/badge/VIEW_PORTFOLIO-6e5494?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codearif.com)
+[![GitHub Profile](https://img.shields.io/badge/VIEW_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/code-arif)
+
+## 📧 Contact Me
+
+For collaborations, questions, or feedback:
+
+[![Email](https://img.shields.io/badge/EMAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arifulislam6460@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariful-islam-9926a922a)

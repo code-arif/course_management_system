@@ -8,6 +8,7 @@
 
     <title>Course Manager</title>
 
+    <link rel="icon" href="{{ asset('favicon.png') }}">
     <link rel="stylesheet" href="{{ asset('css/style.css') }}">
 
     {{-- toast css cdn --}}

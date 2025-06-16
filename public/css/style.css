@@ -149,10 +149,16 @@ h2 {
     margin-bottom: 30px;
 }
 
+.form-group{
+    margin-bottom: 15px;
+}
+
 label {
     font-weight: 600;
     display: block;
     color: #333;
+    margin-bottom: 8px;
+    font-size: 15px;
 }
 
 input[type="text"],
@@ -162,12 +168,11 @@ input[type="date"],
 textarea,
 select {
     width: 100%;
-    padding: 12px 14px;
-    margin: 10px 0 10px 0;
+    padding: 10px 14px;
     border: 1px solid var(--border-color);
     border-radius: 6px;
     box-sizing: border-box;
-    font-size: 1rem;
+    font-size: 14px;
     background-color: #fff;
     transition: border-color 0.3s, box-shadow 0.3s;
 }
@@ -183,6 +188,14 @@ textarea:focus {
 textarea {
     resize: vertical;
 }
+
+/* error message styles */
+.error-message {
+    color: red;
+    font-size: 12px;
+    margin-top: 3px;
+}
+
 button {
     background-color: var(--primary-color);
     color: #fff;

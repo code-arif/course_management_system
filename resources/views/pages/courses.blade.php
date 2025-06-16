@@ -21,7 +21,7 @@
                 <div class="category">{{ $course->category }}</div>
                 <p>{{ Str::limit($course->description, 100) }}</p>
                 <div class="details">
-                    <strong>Price:</strong> {{ $course->price ? '$' . number_format($course->price, 2) : 'Free' }}
+                    <strong>Price:</strong> {{ $course->price ? 'BDT ' . number_format($course->price, 2) : 'Free' }}
                 </div>
 
                 <a href="{{ route('show.course', $course->id) }}" class="view-btn">View</a>
