@@ -1,9 +1,13 @@
 @extends('layout.app')
 @section('content')
     <header>
-        <h1>All Courses</h1>
-        <button class="add-course" onclick="window.location.href='{{ route('courses.create') }}'">+ Add
-            Course</button>
+        <div>
+            <h1>All Courses</h1>
+        </div>
+        <div style="display: flex; gap: 10px; align-items: center;">
+            <a class="source-code" href="https://github.com/code-arif/course_management_system" target="_blank">View Source Code</a>
+            <button class="add-course" onclick="window.location.href='{{ route('courses.create') }}'">+ Add Course</button>
+        </div>
     </header>
 
     <div class="cards">

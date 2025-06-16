@@ -43,6 +43,23 @@ header h1,
     margin-bottom: 20px;
 }
 
+.source-code {
+    text-decoration: none;
+    border: 2px solid var(--primary-color);
+    color: var(--primary-color);
+    padding: 5px 15px;
+    border-radius: var(--border-radius);
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.source-code:hover{
+    color: #fff;
+    transition: .5s ease-in-out;
+    background: var(--primary-color);
+}
+
+
 button.add-course {
     background-color: var(--primary-color);
     color: #fff;
@@ -149,7 +166,7 @@ h2 {
     margin-bottom: 30px;
 }
 
-.form-group{
+.form-group {
     margin-bottom: 15px;
 }
 
